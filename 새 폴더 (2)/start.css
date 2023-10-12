@@ -1,0 +1,8 @@
+.mainpage {
+    display: flex;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
